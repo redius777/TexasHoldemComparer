@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/redius777/TexasHoldemComparer/static/css/main.e03e3a9d.css",
+    "main.js": "/redius777/TexasHoldemComparer/static/js/main.9dd72e14.js",
+    "static/js/453.6188d4a6.chunk.js": "/redius777/TexasHoldemComparer/static/js/453.6188d4a6.chunk.js",
+    "index.html": "/redius777/TexasHoldemComparer/index.html",
+    "main.e03e3a9d.css.map": "/redius777/TexasHoldemComparer/static/css/main.e03e3a9d.css.map",
+    "main.9dd72e14.js.map": "/redius777/TexasHoldemComparer/static/js/main.9dd72e14.js.map",
+    "453.6188d4a6.chunk.js.map": "/redius777/TexasHoldemComparer/static/js/453.6188d4a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e03e3a9d.css",
+    "static/js/main.9dd72e14.js"
+  ]
+}
